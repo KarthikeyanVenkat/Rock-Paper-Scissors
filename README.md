@@ -21,3 +21,4 @@ Technical Architecture:
 ## Links 
 
 *  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/Empathy_Map)
+*  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/problem%20statement)
