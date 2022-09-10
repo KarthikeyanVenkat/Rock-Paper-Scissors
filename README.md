@@ -18,3 +18,6 @@ Technical Architecture:
 ![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/project%20design/architecture.png?raw=true)
 
 
+## Links 
+
+*  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/Empathy_Map)
