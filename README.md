@@ -6,7 +6,7 @@ Artificial Intelligence
 
 ## Skills Required: 
 
-Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
+Python,CNN, IBM Cloud, IBM Watson Studio, IBM Cloudant DB, Deep Learning, Python-Flask
 
 ## Project Description:
 
@@ -22,3 +22,4 @@ Technical Architecture:
 
 *  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/Empathy_Map)
 *  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/problem%20statement)
+*  [Guided project documentation](https://github.com/imhariprakash/IBM-Nalaiyathiran-A-Novel-Method-for-Handwritten-Digit-Recognition-System/tree/main/Guided%20project/project%20documentation)
