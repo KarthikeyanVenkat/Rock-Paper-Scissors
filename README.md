@@ -15,12 +15,12 @@ Handwriting recognition is one of the compelling research works going on because
 Technical Architecture:
 
 
-![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/Pre-Development/Ideation%20phase/architecture.png)
+![architecture - blueprint](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/project%20design/architecture.png?raw=true)
 
 
 ## Links 
 
-*  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Pre-Development/Ideation%20phase/Empathy_Map)
-*  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Pre-Development/Ideation%20phase/problem%20statement)
-*  [Guided project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
-*  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assesments)
+*  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/Empathy_Map)
+*  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/project%20design/problem%20statement)
+*  [Guided project](https://github.com/imhariprakash/IBM-Nalaiyathiran-A-Novel-Method-for-Handwritten-Digit-Recognition-System/tree/main/Guided%20project)
+*  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Asignments)
