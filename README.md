@@ -22,5 +22,6 @@ Technical Architecture:
 
 *  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy_Map)
 *  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/problem%20statement)
+*  [Brainstorming](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming.docx)
 *  [Guided project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
 *  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assignments)
