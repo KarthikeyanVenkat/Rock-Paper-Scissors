@@ -25,3 +25,4 @@ Technical Architecture:
 *  [Brainstorming](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming.docx)
 *  [Guided project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
 *  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assignments)
+*  [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20review)
