@@ -20,10 +20,15 @@ Technical Architecture:
 
 ## Links 
 
-*  [Empathy map](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy_Map)
-*  [Problem statements](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/problem%20statement)
-*  [Brainstorming](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming.docx)
-*  [Guided project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
 *  [Assignments](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Assignments)
-*  [Literature Survey](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20review)
-*  [Proposed Solution](https://github.com/imhariprakash/IBM-Nalaiyathiran-A-Novel-Method-for-Handwritten-Digit-Recognition-System/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution%20Template.pdf)
+*  [Guided Project](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Guided%20project)
+*  [Project Design And Planning](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning)
+*  [Ideation Phase](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Ideation%20Phase)
+*  [Project Design Phase I](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I)
+*  [Project Design Phase II](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II)
+*  [Project Planning](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Design%20%26%20Planning/Project%20Planning)
+*  [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase)
+*  [Sprint 1](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%201)
+*  [Sprint 2](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%202)
+*  [Sprint 3](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%203)
+*  [Sprint 4](https://github.com/IBM-EPBL/IBM-Project-31681-1660204101/tree/main/Project%20Development%20Phase/Sprint%204)
