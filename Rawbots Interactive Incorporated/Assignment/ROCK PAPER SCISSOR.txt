@@ -1,0 +1,42 @@
+use safenetwork::{
+    core::{
+        event::Event,
+        network::{Network, Peer},
+    },
+    runtime::{Runtime, RuntimeBuilder},
+};
+
+use std::{
+    net::{IpAddr, Ipv4Addr},
+    sync::{Arc, Mutex},
+};
+
+fn main() {
+    let mut runtime = RuntimeBuilder::new().build().unwrap();
+
+    let network = Arc::new(Mutex::new(Network::new(runtime.clone())));
+
+    let listener = network
+        .lock()
+        .unwrap()
+        .listen(IpAddr::V4(Ipv4Addr::new(127, 0, 0, 1)), 8080)
+        .unwrap();
+
+    println!("Listening on {}", listener.local_address());
+
+    loop {
+        let peer = network
+            .lock()
+            .unwrap()
+            .accept(listener)
+            .unwrap();
+
+        println!("New peer connected: {}", peer.id());
+
+        network
+            .lock()
+            .unwrap()
+            .send(peer, Event::Hello(String::from("Hello!")))
+            .unwrap();
+    }
+}
